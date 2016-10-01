@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class Day0_1 {
+public class Day00_1 {
 	public static void main(String[] args) {
 		Scanner sc = new Scanner(System.in);
 

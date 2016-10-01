@@ -1,7 +1,0 @@
-package TenDaysOfStatistics;
-
-public class Day0_2 {
-	public static void main(String[] args) {
-
-	}
-}
